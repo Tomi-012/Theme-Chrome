@@ -1,0 +1,32 @@
+{
+  "name": "Raiden Ei",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.jpeg"
+    },
+    "colors": {
+      "frame": [44, 36, 76],
+      "toolbar": [228, 204, 212],
+      "tab_text": [44, 37, 79],
+      "tab_background_text": [230, 206, 214],
+      "bookmark_text": [44, 37, 79],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": {
+      "buttons": [0, 0, 0.44]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}

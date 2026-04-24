@@ -1,0 +1,32 @@
+{
+  "name": "Kimetsu no Yaiba - Nezuko",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 3,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.jpeg",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.jpeg"
+    },
+    "colors": {
+      "frame": [86, 59, 61],
+      "toolbar": [61, 40, 42],
+      "tab_text": [222, 199, 201],
+      "tab_background_text": [61, 40, 42],
+      "bookmark_text": [222, 199, 201],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": {
+      "buttons": [0.98, 0.26, 0.83]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}

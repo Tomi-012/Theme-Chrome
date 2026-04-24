@@ -1,0 +1,32 @@
+{
+  "name": "Raiden Shogun Namecard - Genshin Impact",
+  "version": "1.0",
+  "description": "Genshin Impact Themes for Google!\n---\n\"Rainfall alone does not constitute a storm. Thunder is required.\"\n- Raiden Shogun, Electro Archon\n---\nCredits to Genshin Impact by Mihoyo",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [98, 90, 128],
+      "toolbar": [188, 180, 164],
+      "tab_text": [90, 83, 127],
+      "tab_background_text": [191, 183, 164],
+      "bookmark_text": [90, 83, 127],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": {
+      "buttons": [0, 0, 0.44]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}

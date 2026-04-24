@@ -1,0 +1,32 @@
+{
+  "name": "yoimiya_&_ayaka",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [201, 183, 195],
+      "toolbar": [59, 60, 84],
+      "tab_text": [201, 183, 195],
+      "tab_background_text": [59, 60, 84],
+      "bookmark_text": [201, 183, 195],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": {
+      "buttons": [0.89, 0.14, 0.75]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}
